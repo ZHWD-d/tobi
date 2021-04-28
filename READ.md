@@ -16,7 +16,7 @@
 
 ~~abc~~
 
-[mygithub]([ZHWD-d (github.com)](https://github.com/ZHWD-d)
+[mygithub](https://github.com/ZHWD-d)
 
 | 1    | 2    | 23   |
 | ---- | ---- | ---- |
